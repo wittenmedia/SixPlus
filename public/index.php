@@ -1,6 +1,7 @@
 <?php
 
 //include autoloader
+require '../vendor/autoload.php';
 
 //get configuration from somewhere....
 

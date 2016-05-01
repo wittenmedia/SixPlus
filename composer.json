@@ -1,0 +1,6 @@
+{
+    "name": "wittenmedia/sixplus",
+    "autoload": {
+        "psr-4": {"SixPlus\\": "src/"}
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "wittenmedia/sixplus",
+    "require": {
+        "phpunit/phpunit": "5.3.*"
+    },
+    "autoload": {
+        "psr-4": {"SixPlus\\": "src/"}
+    }
+}

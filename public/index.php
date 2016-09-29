@@ -1,6 +1,7 @@
 <?php
 
-//@todo : include autoloader
+//include autoloader
+require '../vendor/autoload.php';
 
 //get configuration from somewhere....
 $builder = new SixPlus\ApplicationBuilder($_SERVER, $_COOKIE, $_GET, $_FILES, $_POST);
